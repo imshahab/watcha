@@ -1,5 +1,3 @@
-
-
 document.addEventListener('DOMContentLoaded', () => {
     const mainContainerEl = document.querySelector('.main-container')
     const succesfulIcon = '<i class="fa-solid fa-circle-check"></i>'
