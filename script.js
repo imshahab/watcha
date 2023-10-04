@@ -1,5 +1,3 @@
-
-
 document.addEventListener('DOMContentLoaded', () => {
     const apiKey = '679774f8'
     const succesfulIcon = '<i class="fa-solid fa-circle-check"></i>'
